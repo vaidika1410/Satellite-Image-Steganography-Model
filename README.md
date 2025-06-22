@@ -99,6 +99,12 @@ Run detector:
 python detector_train.py
 ```
 
+## 📓 Notebook Access
+
+You can view the complete implementation and experiments in the main research notebook:
+
+🔗 [Satellite_Steganography_Model.ipynb](https://github.com/vaidika1410/Satellite-Image-Steganography-Model/blob/main/Satellite_Steganography_Final.ipynb)
+
 ---
 
 ## 📜 License
